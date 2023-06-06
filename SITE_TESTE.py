@@ -16,6 +16,9 @@ st.write(dataframe)
 
 chart_data = pd.DataFrame(
      np.random.randn(20, 3),
-     columns=['Vini', 'Benzema', 'Rodrygo'])
+     columns=['Vini'])
+
+    
+#     columns=['Vini', 'Benzema', 'Rodrygo'])
 
 st.line_chart(chart_data)
