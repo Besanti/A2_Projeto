@@ -16,7 +16,7 @@ st.write(dataframe)
 
 chart_data = pd.DataFrame(
      np.random.randn(20, 3),
-     columns=['Vini', 'Benzema', 'Rodrygo', 'Valverde'])
+     columns=['Vini', 'Benzema', 'Rodrygo'])
 
     
 #     columns=['Vini', 'Benzema', 'Rodrygo'])
