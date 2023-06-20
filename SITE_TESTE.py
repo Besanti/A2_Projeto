@@ -1,4 +1,4 @@
-
+!pip install beautifulsoup4
 
 import requests
 import beautifulsoup4
