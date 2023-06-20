@@ -1,7 +1,7 @@
 
 
 import requests
-from bs4 import BeautifulSoup
+from bs4 import beautifulsoup4
 import streamlit as st
 
 st.title("Localizador de Jogadores")
