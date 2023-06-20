@@ -1,7 +1,7 @@
 
 
 import requests
-
+from bs4 import BeautifulSoup
 import streamlit as st
 
 st.title("Localizador de Jogadores")
@@ -10,9 +10,6 @@ title = st.text_input('Digite o nome de um jogador do Real Madrid: ', ':')
 st.write('Informações sobre o Jogador', title)
 
 
-
-import requests
-from bs4 import BeautifulSoup
 
 
 extras = {
