@@ -5,5 +5,5 @@ from bs4 import BeautifulSoup
 import streamlit as st
 
 with st.sidebar:
-    st.title("Escolha Um Jogador")
-    st.[element_name]
+    st.title("Jogadores do Real Madird")
+    st.["Escolha um Jogador Madridista"]
