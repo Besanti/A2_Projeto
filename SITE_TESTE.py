@@ -6,4 +6,5 @@ import streamlit as st
 
 st.title("Localizador de Jogadores")
 
-st.text_input(label, value="", max_chars=None, key=None, type="default", help=None, autocomplete=None, on_change=None, args=None, kwargs=None, *, placeholder=None, disabled=False, label_visibility="visible")
+title = st.text_input('Movie title', 'Life of Brian')
+st.write('The current movie title is', title)
