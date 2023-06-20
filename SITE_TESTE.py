@@ -6,4 +6,4 @@ import streamlit as st
 
 st.title("Localizador de Jogadores")
 
-user_input = st.text_input("Digite", default_value_goes_here)
+st.text_input(label, value="", max_chars=None, key=None, type="default", help=None, autocomplete=None, on_change=None, args=None, kwargs=None, *, placeholder=None, disabled=False, label_visibility="visible")
