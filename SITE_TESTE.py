@@ -49,22 +49,6 @@ url_imagem = 'https://upload.wikimedia.org/wikipedia/pt/9/98/Real_Madrid.png'
 # Exibir a imagem
 st.image(url_imagem, caption='Escudo do Real', use_column_width=False)
 
-# Cria gráfico
-#url_csv = 'https://raw.githubusercontent.com/besanti/A2_Projeto/informacoesjogadores.csv'
-
-# Carrega os dados do CSV usando o pandas
-#df = pd.read_csv(url_csv)
-
-# Cria o gráfico usando o matplotlib
-#fig, ax = plt.subplots()
-#ax.plot(df['Nome Completo'], df['Altura'])
-#ax.set_xlabel('Nome')
-#ax.set_ylabel('Altura')
-#ax.set_title('Gráfico de Altura dos Jogadores')
-
-# Exibe o gráfico usando o Streamlit
-#st.pyplot(fig)
-
 # Entrada do nome do jogador
 nome_jogador = st.text_input('Digite o nome de um jogador do Real Madrid e descubra informações sobre eles e seus números na temporada 2022/23:')
 
