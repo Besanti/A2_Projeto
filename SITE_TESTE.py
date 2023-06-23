@@ -12,11 +12,11 @@ st.title("Localizador de Jogadores")
 player_name = st.text_input('Digite o nome de um jogador do Real Madrid:')
 
 # Localizar as informações do jogador
-player_info = df[df['Nome'] == player_name]
+#player_info = df[df['Nome'] == player_name]
 
 # Exibir as informações do jogador
-if not player_info.empty:
-    st.write('Informações sobre o Jogador:', player_name)
-    st.write(player_info)
-else:
-    st.write('Jogador não encontrado.')
+#if not player_info.empty:
+#    st.write('Informações sobre o Jogador:', player_name)
+#    st.write(player_info)
+#else:
+#    st.write('Jogador não encontrado.')
