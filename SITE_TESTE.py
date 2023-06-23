@@ -2,8 +2,8 @@
 import streamlit as st
 import csv
 import pandas as pd
-import matplotlib as plt
-
+import matplotlib.pyplot as plt
+import numpy as np
 
 # Dicionário de jogadores e seus sinônimos
 jogadores = {
