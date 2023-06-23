@@ -3,9 +3,9 @@ import csv
 
 # Dicionário de jogadores e seus sinônimos
 jogadores = {
-    "Vinícius_Júnior": ["vinicius jr", "vinícius", "vinicius", "vinícius júnior", "vinícius junior", "vinicius júnior", "vinicius junior", "vini jr", "vini", "vini malvadeza", "vinícius josé paixão de oliveira júnior", "melhor jogador do mundo", "malvadeza", "ela é uma boa menina"],
-    "Rodrygo_Goes": ["rodrygo", "rayo", "rodrygo goes"],
-    "Karim_Benzema": ["karim", "benzema", "karim benzema"]
+    "Vinicius José Paixão de Oliveira Júnior": ["vinicius jr", "vinícius", "vinicius", "vinícius júnior", "vinícius junior", "vinicius júnior", "vinicius junior", "vini jr", "vini", "vini malvadeza", "vinícius josé de oliveira júnior", "melhor jogador do mundo", "malvadeza", "ela é uma boa menina"],
+    "Rodrygo Silva de Goes": ["rodrygo", "rayo", "rodrygo goes"],
+    "Karim Mostafa Benzema": ["karim", "benzema", "karim benzema"]
 }
 
 # Função para procurar o jogador no arquivo CSV
