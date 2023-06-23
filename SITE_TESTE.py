@@ -43,7 +43,7 @@ st.title("Almanaque Real Madrid")
 url_imagem = 'https://cdn.pixabay.com/photo/2022/09/06/16/10/real-madrid-7437018_640.png'
 
 # Exibir a imagem
-st.image(url_imagem, caption='Escudo do Real', use_column_width=False, width=300, height=300)
+st.image(url_imagem, caption='Escudo do Real', use_column_width=True, width=300, height=300)
 
 # Entrada do nome do jogador
 nome_jogador = st.text_input('Digite o nome de um jogador:')
