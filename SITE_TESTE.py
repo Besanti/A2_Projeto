@@ -1,13 +1,21 @@
 import streamlit as st
 import csv
 
+# Dicionário de jogadores e seus sinônimos
+jogadores = {
+    "Vinícius_Júnior": ["vinicius jr", "vinícius", "vinicius", "vinícius júnior", "vinícius junior", "vinicius júnior", "vinicius junior", "vini jr", "vini", "vini malvadeza", "vinícius josé paixão de oliveira júnior", "melhor jogador do mundo", "malvadeza", "ela é uma boa menina"],
+    "Rodrygo_Goes": ["rodrygo", "rayo", "rodrygo goes"],
+    "Karim_Benzema": ["karim", "benzema", "karim benzema"]
+}
+
 # Função para procurar o jogador no arquivo CSV
 def procurar_jogador(nome_jogador, informacoesjogadores):
     with open(informacoesjogadores, 'r') as arquivo_csv:
         leitor_csv = csv.DictReader(arquivo_csv)
         for jogador in leitor_csv:
-            if jogador['Nome Completo'].lower() == nome_jogador.lower():
-                return jogador
+            for sinonimo in jogadores[jogador['Nome Completo']]:
+                if sinonimo.lower() == nome_jogador.lower():
+                    return jogador
     return None
 
 # Título do aplicativo
@@ -26,4 +34,3 @@ if jogador_encontrado:
         st.write(f"{chave}: {valor}")
 else:
     st.write("Jogador não encontrado no arquivo CSV.")
-
