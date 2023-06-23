@@ -66,7 +66,7 @@ st.image(url_imagem, caption='Escudo do Real', use_column_width=False)
 #st.pyplot(fig)
 
 # Entrada do nome do jogador
-nome_jogador = st.text_input('Digite o nome de um jogador:')
+nome_jogador = st.text_input('Digite o nome de um jogador do Real Madrid e descubra informações sobre e seus números na temporada 2022/23:')
 
 # Chamar a função para procurar o jogador
 jogador_encontrado = procurar_jogador(nome_jogador, 'informacoesjogadores.csv')
