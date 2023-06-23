@@ -6,6 +6,24 @@ jogadores = {
     "Vinicius José Paixão de Oliveira Júnior": ["vinicius jr", "vinícius", "vinicius", "vinícius júnior", "vinícius junior", "vinicius júnior", "vinicius junior", "vini jr", "vini", "vini malvadeza", "vinícius josé de oliveira júnior", "melhor jogador do mundo", "malvadeza", "ela é uma boa menina"],
     "Rodrygo Silva de Goes": ["rodrygo", "rayo", "rodrygo goes"],
     "Karim Mostafa Benzema": ["karim", "benzema", "karim benzema"]
+    "Marco Asensio Willemsen": ["asensio", "marco asensio"],
+    "Federico Santiago Valverde Dipetta": ["valverde", "fede valverde", "federico valverde", "fede"],
+    "Luka Modrić": ["modric", "luka modric", "luka modrić"],
+    "Éder Gabriel Militão": ["militão", "militao", "éder militão", "eder militão", "éder militao", "eder militao"],
+    "Daniel Carvajal Ramos": ["carvajal", "dani carvajal", "daniel carvajal"],
+    "José Ignacio Fernández Iglesias": ["nacho", "nacho fernandez", "nacho fernández"],
+    "David Olatukunbo Alaba": ["alaba", "david alaba"],
+    "Toni Kroos": ["kroos", "toni kroos"],
+    "Eduardo Celmi Camavinga": ["camavinga", "eduardo camavinga"],
+    "Thibaut Nicolas Marc Courtois": ["courtois", "thibaut courtois"],
+    "Antonio Rüdiger": ["rudiger", "antonio rudiger"],
+    "Jesús Vallejo Lázaro": ["vallejo", "jesús vallejo", "jesus vallejo"],
+    "Ferland Sinna Mendy": ["mendy", "ferland mendy"],
+    "Lucas Vázquez Iglesias": ["lucas vázquez", "lucas vazquez", "vázquez", "vazquez"],
+    "Aurélien Djani Tchouaméni": ["tchouaméni", "tchouameni"],
+    "Eden Michael Hazard": ["hazard", "eden hazard"],
+    "Mariano Díaz Mejía": ["mariano díaz", "mariano diaz", "mariano"],
+    "Andriy Oleksiyovych Lunin": ["lunin", "andriy lunin"],
 }
 
 # Função para procurar o jogador no arquivo CSV
