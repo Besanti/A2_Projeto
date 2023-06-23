@@ -17,7 +17,7 @@ st.title("Localizador de Jogadores")
 nome_jogador = st.text_input('Digite o nome de um jogador:')
 
 # Chamar a função para procurar o jogador
-jogador_encontrado = procurar_jogador(nome_jogador, 'nome_do_arquivo.csv')
+jogador_encontrado = procurar_jogador(nome_jogador, 'informacoesjogadores.csv')
 
 # Exibir as informações do jogador, se encontrado
 if jogador_encontrado:
