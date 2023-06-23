@@ -2,3 +2,5 @@ pandas
 streamlit
 ploty
 csv
+seaborn
+matplotlib
