@@ -40,7 +40,7 @@ def procurar_jogador(nome_jogador, informacoesjogadores):
 st.title("Almanaque Real Madrid")
 
 # URL direto para a imagem no GitHub
-url_imagem = 'https://upload.wikimedia.org/wikipedia/pt/9/98/Real_Madrid.png'
+url_imagem = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3AEscudo_real_madrid_1941.png&psig=AOvVaw2aaGNYRaDH2pETnIf1bc2K&ust=1687585425619000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJD4jeHX2P8CFQAAAAAdAAAAABAS'
 
 # Exibir a imagem
 st.image(url_imagem, caption='Escudo do Real', use_column_width=False)
