@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 
 # Carregar o arquivo CSV
-url = 'https://raw.githubusercontent.com/besanti/A2_Projeto/informacoesjogadores.csv'
-df = pd.read_csv(url)
+#url = 'https://raw.githubusercontent.com/besanti/A2_Projeto/informacoesjogadores.csv'
+#df = pd.read_csv(url)
 
 
 st.title("Localizador de Jogadores")
