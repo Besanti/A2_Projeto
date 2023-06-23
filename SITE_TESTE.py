@@ -1,9 +1,8 @@
-pip install streamlit pandas matplotlib
 
 import streamlit as st
 import csv
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib as plt
 
 
 # Dicionário de jogadores e seus sinônimos
