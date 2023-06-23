@@ -5,7 +5,7 @@ import csv
 jogadores = {
     "Vinicius José Paixão de Oliveira Júnior": ["vinicius jr", "vinícius", "vinicius", "vinícius júnior", "vinícius junior", "vinicius júnior", "vinicius junior", "vini jr", "vini", "vini malvadeza", "vinícius josé de oliveira júnior", "melhor jogador do mundo", "malvadeza", "ela é uma boa menina"],
     "Rodrygo Silva de Goes": ["rodrygo", "rayo", "rodrygo goes"],
-    "Karim Mostafa Benzema": ["karim", "benzema", "karim benzema"]
+    "Karim Mostafa Benzema": ["karim", "benzema", "karim benzema"],
     "Marco Asensio Willemsen": ["asensio", "marco asensio"],
     "Federico Santiago Valverde Dipetta": ["valverde", "fede valverde", "federico valverde", "fede"],
     "Luka Modrić": ["modric", "luka modric", "luka modrić"],
