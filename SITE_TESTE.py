@@ -1,3 +1,5 @@
+pip install streamlit pandas matplotlib
+
 import streamlit as st
 import csv
 import pandas as pd
