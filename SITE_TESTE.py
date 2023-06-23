@@ -2,8 +2,8 @@ import streamlit as st
 import csv
 
 # Função para procurar o jogador no arquivo CSV
-def procurar_jogador(nome_jogador, nome_arquivo_csv):
-    with open(nome_arquivo_csv, 'r') as arquivo_csv:
+def procurar_jogador(nome_jogador, informacoesjogadores):
+    with open(informacoesjogadores, 'r') as arquivo_csv:
         leitor_csv = csv.DictReader(arquivo_csv)
         for jogador in leitor_csv:
             if jogador['Nome Completo'].lower() == nome_jogador.lower():
