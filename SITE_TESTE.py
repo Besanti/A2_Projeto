@@ -1,5 +1,8 @@
 import streamlit as st
 import csv
+import pandas as pd
+import matplotlib.pyplot as plt
+
 
 # Dicionário de jogadores e seus sinônimos
 jogadores = {
@@ -44,6 +47,10 @@ url_imagem = 'https://upload.wikimedia.org/wikipedia/pt/9/98/Real_Madrid.png'
 
 # Exibir a imagem
 st.image(url_imagem, caption='Escudo do Real', use_column_width=False)
+
+# Cria gráfico
+url_csv = 'https://raw.githubusercontent.com/besanti/A2_Projeto/caminho-do-arquivo/informacoesjogadores.csv'
+df = pd.read_csv(url_csv)
 
 # Entrada do nome do jogador
 nome_jogador = st.text_input('Digite o nome de um jogador:')
