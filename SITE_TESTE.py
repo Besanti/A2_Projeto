@@ -57,4 +57,4 @@ if jogador_encontrado:
     for chave, valor in jogador_encontrado.items():
         st.write(f"{chave}: {valor}")
 else:
-    st.write("Jogador não encontrado no arquivo CSV.")
+    st.write("Não conseguimos encontrar esse jogador no nosso banco de dados. Tente refletir se esse nome realmente corresponde a um de nosso GALÁTICOS!")
