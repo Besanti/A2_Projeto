@@ -37,7 +37,7 @@ def procurar_jogador(nome_jogador, informacoesjogadores):
     return None
 
 # Título do aplicativo
-st.title("Localizador de Jogadores")
+st.title("Almanaque Real Madrid")
 
 # Entrada do nome do jogador
 nome_jogador = st.text_input('Digite o nome de um jogador:')
