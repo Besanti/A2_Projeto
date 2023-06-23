@@ -1,24 +1,22 @@
-Nome Completo,Data de Nascimento,Local de Nascimento,Nacionalidade,Altura,Pé Dominante
-Vinicius José Paixão de Oliveira Júnior,12 de julho de 2000 (22 anos),"São Gonçalo, Rio de Janeiro, Brasil",brasileiro,"1,76 m",destro[1]
-Rodrygo Silva de Goes,9 de janeiro de 2001 (22 anos),"Osasco, São Paulo, Brasil",brasileiro espanhol,"1,74 m",ambidestro
-Karim Mostafa Benzema,19 de dezembro de 1987 (35 anos),"Lyon, França",francês argelino,"1,85 m",destro
-Federico Santiago Valverde Dipetta,22 de julho de 1998 (24 anos),"Montevidéu, Uruguai",uruguaio,"1,82 m",destro
-Daniel Carvajal Ramos,11 de janeiro de 1992 (31 anos),"Leganés, Espanha",espanhol,"1,73 m[1]",destro
-José Ignacio Fernández Iglesias,18 de janeiro de 1990 (33 anos),"Madrid, Espanha",espanhol,"1,80 m",ambidestro
-Eduardo Celmi Camavinga,10 de novembro de 2002 (20 anos),"Miconje, Angola",angolano francês,"1,82 m",canhoto
-Éder Gabriel Militão,18 de janeiro de 1998 (25 anos),"Sertãozinho, Brasil",brasileiro,"1,86 m",direito
-David Olatukunbo Alaba,24 de junho de 1992 (30 anos),"Viena, Áustria",austríaco nigeriano,"1,80 m",esquerdo
-Thibaut Nicolas Marc Courtois,11 de maio de 1992 (31 anos),"Bree, Bélgica",belga,"1,99 m",direito
-Antonio Rüdiger,3 de março de 1993 (30 anos),"Berlim, Alemanha",alemão,"1,91 m",direito
-Jesús Vallejo Lázaro,5 de janeiro de 1997 (26 anos),"Zaragoza, Espanha",espanhol,"1,84 m",direito
-Ferland Sinna Mendy,8 de junho de 1995 (28 anos),"Évreux, França",francês senegalês,"1,80 m",canhoto
-Eden Michael Hazard,7 de janeiro de 1991 (32 anos),"La Louvière, Bélgica",belga,"1,73 m[1]",destro
-Luka Modrić,9 de setembro de 1985 (37 anos),"Zadar, Iugoslávia",croata,"1,72 m",ambidestro
-Marco Asensio Willemsen,21 de janeirode1996(27 anos),"Palma de Maiorca,Espanha",Espanhol,"1,82 m",Canhoto
-José Ignacio Fernández Iglesias,18 de janeirode1990(33 anos),"Madrid,Espanha",espanhol,"1,80 m",ambidestro
-Toni Kroos,4 de janeirode1990(33 anos),"Greifswald,Alemanha Oriental",alemão,"1,83 m",ambidestro
-Antonio Rüdiger,3 de marçode1993(30 anos),"Berlim,Alemanha",alemãoserra-leonês,"1,90 m[1]",destro[1]
-Lucas Vázquez Iglesias,1 de julhode1991(31 anos),"Curtis,Espanha",espanhol,"1,73 m",destro
-Aurélien Djani Tchouaméni,27 de janeirode2000(23 anos),"Rouen,França",francês,"1,88 m",destro
-Mariano Díaz Mejía,1 de agostode1993(29 anos),"Premià de Mar,Espanha",espanhol,"1,81 m",Destro
-Andriy Oleksiyovych Lunin,11 de fevereirode1999(24 anos),"Krasnohrad,Ucrânia",ucraniano,"1,91 m",destro
+Nome Completo,Data de Nascimento,Local de Nascimento,Nacionalidade,Altura,Pé Dominante, Gols, Assistências
+Vinicius José Paixão de Oliveira Júnior,12 de julho de 2000 (22 anos),"São Gonçalo, Rio de Janeiro, Brasil",brasileiro,"1,76 m",destro[1], 23, 21
+Rodrygo Silva de Goes,9 de janeiro de 2001 (22 anos),"Osasco, São Paulo, Brasil",brasileiro espanhol,"1,74 m",ambidestro,19,11
+Karim Mostafa Benzema,19 de dezembro de 1987 (35 anos),"Lyon, França",francês argelino,"1,85 m",destro,31,6
+Federico Santiago Valverde Dipetta,22 de julho de 1998 (24 anos),"Montevidéu, Uruguai",uruguaio,"1,82 m",destro,12,7
+Daniel Carvajal Ramos,11 de janeiro de 1992 (31 anos),"Leganés, Espanha",espanhol,"1,73 m[1]",destro,0,5
+José Ignacio Fernández Iglesias,18 de janeiro de 1990 (33 anos),"Madrid, Espanha",espanhol,"1,80 m",ambidestro,1,1
+Eduardo Celmi Camavinga,10 de novembro de 2002 (20 anos),"Miconje, Angola",angolano francês,"1,82 m",canhoto,0,2
+Éder Gabriel Militão,18 de janeiro de 1998 (25 anos),"Sertãozinho, Brasil",brasileiro,"1,86 m",direito,7,1
+David Olatukunbo Alaba,24 de junho de 1992 (30 anos),"Viena, Áustria",austríaco nigeriano,"1,80 m",esquerdo,2,3
+Thibaut Nicolas Marc Courtois,11 de maio de 1992 (31 anos),"Bree, Bélgica",belga,"1,99 m",direito,0,0
+Jesús Vallejo Lázaro,5 de janeiro de 1997 (26 anos),"Zaragoza, Espanha",espanhol,"1,84 m",direito,0,0
+Ferland Sinna Mendy,8 de junho de 1995 (28 anos),"Évreux, França",francês senegalês,"1,80 m",canhoto,0,1
+Eden Michael Hazard,7 de janeiro de 1991 (32 anos),"La Louvière, Bélgica",belga,"1,73 m[1]",destro,1,2
+Luka Modrić,9 de setembro de 1985 (37 anos),"Zadar, Iugoslávia",croata,"1,72 m",ambidestro,6,6
+Marco Asensio Willemsen,21 de janeirode1996(27 anos),"Palma de Maiorca,Espanha",Espanhol,"1,82 m",Canhoto,12,8
+Toni Kroos,4 de janeirode1990(33 anos),"Greifswald,Alemanha Oriental",alemão,"1,83 m",ambidestro,2,6
+Antonio Rüdiger,3 de marçode1993(30 anos),"Berlim,Alemanha",alemãoserra-leonês,"1,90 m[1]",destro[1],2,0
+Lucas Vázquez Iglesias,1 de julhode1991(31 anos),"Curtis,Espanha",espanhol,"1,73 m",destro,4,3
+Aurélien Djani Tchouaméni,27 de janeirode2000(23 anos),"Rouen,França",francês,"1,88 m",destro,0,4
+Mariano Díaz Mejía,1 de agostode1993(29 anos),"Premià de Mar,Espanha",espanhol,"1,81 m",Destro,0,0
+Andriy Oleksiyovych Lunin,11 de fevereirode1999(24 anos),"Krasnohrad,Ucrânia",ucraniano,"1,91 m",destro,0,0
